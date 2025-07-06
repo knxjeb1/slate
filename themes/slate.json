@@ -4,12 +4,12 @@
         "name": "slate",
         "version": "1.0.1",
         "license": "MIT",
-        "updater": "https:\/\/raw.githubusercontent.com\/myumichi\/slate\/main\/themes\/slate.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/knxjeb1\/slate\/main\/themes\/slate.json"
     },
     "background": {
         "blur_radius": 0,
         "overlay_alpha": 140,
-        "url": "https:\/\/raw.githubusercontent.com\/myumichi\/slate\/main\/backgrounds\/slate-bg.png"
+        "url": "https:\/\/raw.githubusercontent.com\/knxjeb1\/slate\/main\/backgrounds\/bg.png"
     },
     "fonts": {
         "whitney_medium": "https:\/\/github.com\/myumichi\/slate\/blob\/main\/fonts\/Mesclo-Medium.otf?raw=true",
